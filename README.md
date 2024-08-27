@@ -1,4 +1,13 @@
-<h1>Portfolio Repo</h1>
+<div align="center"> Logo (Mentimeter Wolf/Google)</div>
+<h2 align="center"> Xun Chia - Portfolio</h2>
+
+<h3 align="center">
+  <a href = "https://www.Xunchia.com" target = "_blank"></a> (Landing here)
+</h3>
+
+----
+
+<h2>Portfolio Repo</h2>
 
 Hello There! This is the repository for my portfolio page (as of 2024). The website serves not only as my showcase portfolio but also as a personal development project on its own. 
 
@@ -8,4 +17,4 @@ Enjoy your stay!
 
 *Fueled by many mistakes, r/oneorangebraincell and youtube tutorial videos 
 
-*Updated 18th August 2024*
+*Updated 28th August 2024*
