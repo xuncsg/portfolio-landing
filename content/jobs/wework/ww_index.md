@@ -47,8 +47,17 @@ url: 'https://www.wework.com/'
 <li>AIA</li>
 <li>Greenlabs</li>
 <li>L'oreal</li>
-<ul>
+</ul>
 
-<h4>To Insert Dashboard Prototypes</h4>
+<h4>APAC Regional/Territory Portfolio Benchmarking Reports</h4>
+-Usage of Paginated Reports in Microsoft PowerBi via scheduled reporting for Go-To-Market (GTM) Enterprise capital expenditure utility strategies 
+
+![ba_ww_1](https://github.com/user-attachments/assets/2aa076ae-dbc8-4e10-b594-183782dae60d)
+![ba_ww_2](https://github.com/user-attachments/assets/482ae25b-2f08-4662-9c81-05b16a2fb706)
+![ba_ww_3_WIP](https://github.com/user-attachments/assets/3d441b85-c659-4a0a-aa44-f5deeb43abf3)
+![ba_ww_4_WIP](https://github.com/user-attachments/assets/5ae96644-ab73-4cbb-98fe-3db25ccf8c42)
+
+
+
 
 
