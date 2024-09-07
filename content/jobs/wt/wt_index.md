@@ -27,4 +27,12 @@ url: 'https://www.wtpartnership.com/'
 <li>Armed Security Facility, SATS/Changi Airport Group, value classified </li>
 </ul>
 
-<h4>To Insert Cost Dashboard Prototypes/Data Extraction RPA proposed workflows</h4>
+
+<h4>Office Fit-Out Construction Cost Estimation and Benchmarking Dashboarding/Framework</h4>
+
+- Usage of Microsoft PowerBi and Power Platform to track individual project construction costs across intital initial, schematic and contract stage
+- Comparative benchmarking for key cost matrices ($ per Trade/Stage/M2) against other projects and industry Tender Price Indices
+
+![google_majulah_1_WIP](https://github.com/user-attachments/assets/11008cca-8a74-401e-876e-d3c397609b53)
+![google_majulah_2_wip](https://github.com/user-attachments/assets/7f08966a-c23e-41db-bba3-fa2ca7ddbcef)
+
